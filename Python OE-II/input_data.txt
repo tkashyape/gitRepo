@@ -1,0 +1,7 @@
+# Limits of integration
+lowerLimit;    1.5
+upperLimit;    3.0
+
+# Function data
+x;    1.2, 1.7, 2.0, 2.4, 2.9, 3.3
+fx;   -0.36236, 0.12884, 0.41615, 0.73739, 0.97096, 0.98748
